@@ -1,123 +1,84 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&lines=Hi%2C+I'm+Vijay+Dobhal;Flutter+Developer;Mobile+App+Engineer;Firebase+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=700&color=0B2B4F&center=true&vCenter=true&lines=Vijay+Dobhal;Mobile+Engineer+%E2%80%A2+Flutter+%26+Security;Building+Secure+Banking+Experiences" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" alt="Programming GIF" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="Developer GIF" />
+</p>
 
 <h1 align="center">Vijay Dobhal</h1>
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS" />
-</p>
+<p align="center"><em>Mobile Engineer — Flutter, Payments & Security</em></p>
 
 <p align="center">
-  <a href="https://github.com/vijaydobhal12">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com">
-    <img src="https://img.shields.io/badge/Portfolio-FF6F00?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:vijaydobhal12@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vijaydobhal12&style=flat-square&color=7C3AED" alt="Profile Views" />
+  <a href="https://github.com/vijaydobhal12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:vijaydobhal12@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## About Me
+## Summary
 
-I’m a passionate mobile app developer focused on building smooth, scalable, and user-centric experiences for Android and iOS. I enjoy transforming product ideas into production-ready mobile applications with clean architecture, strong UX, and efficient performance.
+I build production mobile experiences used by large international banks and fintech platforms. I combine product-driven engineering with a security-first mindset — delivering scalable Flutter apps, secure payments integrations, and hardened infrastructure for sensitive financial workflows.
 
-- 🔹 Specializing in Flutter, Dart, Firebase, REST APIs, and mobile app architecture
-- 🔹 Experienced with GetX, Riverpod, and clean state management patterns
-- 🔹 Interested in building high-performance, conversion-focused applications
-- 🔹 Open to freelance projects, collaborations, and full-time opportunities
-- 📍 Based in Pune, Maharashtra
+- 8+ years in mobile and backend integrations (Flutter, Dart, Java/Kotlin)
+- Delivered cross-border banking features, payments flows, and reconciliation pipelines
+- Hands-on with security architecture: TLS hardening, mutual-TLS, secure reverse-proxy setups, HSM integration, and PCI-DSS aligned practices
 
 ---
 
-## Core Stack
+## Current (Selected) Work
 
-### Mobile & App Development
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
-</p>
+Working on a banking application used by international and regional banks. Key responsibilities include:
 
-### Backend & Data
-<p align="left">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Firestore-FF6D00?style=flat-square&logo=firebase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-00599C?style=flat-square&logo=fastapi&logoColor=white" />
-</p>
-
-### State Management & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/GetX-FF0000?style=flat-square&logo=getx&logoColor=white" />
-  <img src="https://img.shields.io/badge/Riverpod-4A90E2?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-</p>
+- End-to-end mobile payment flows and reconciliation across multiple acquiring banks
+- Implementing secure communication: TLS/SSL hardening, certificate pinning, and mutual-TLS for sensitive endpoints
+- Secure edge architecture: reverse-proxy configuration, secure API gateways, and rate limiting
+- Key management & HSM integration for cryptographic operations and tokenization
+- Identity & access: OAuth2/OIDC, 2FA, biometric authentication and session security
+- Compliance & assurance: aligning flows to PCI-DSS, performing threat modeling, and collaborating with pentest teams
 
 ---
 
-## Featured Work
+## Core Skills
 
-### Online Munim – ERP App
-- ERP billing solution for multi-branch operations
-- Inventory, GST reporting, and business management flows
-- Tech: Flutter, GetX, Firebase, REST APIs, Razorpay, Apple Pay
+- Mobile: Flutter, Dart, Native Android (Kotlin/Java)
+- Security & Compliance: TLS (SSL) hardening, certificate pinning, mutual-TLS, HSM, PCI-DSS controls, secure code practices
+- Payments & Integrations: Razorpay, gateway integrations, reconciliation, webhook security
+- Architecture & DevOps: API gateways, reverse proxies, CI/CD security checks, SAST/DAST automation
+- State & Patterns: GetX, Riverpod, Clean Architecture, BLoC
 
-### Jewellers App – E-Commerce & Billing
-- Product catalogue, live pricing, rental/EMI flows, and stock management
-- Tech: Flutter, GetX, Razorpay, Apple Pay, REST APIs
+---
 
-### Clone App (Flutter)
-- Service app with Firebase auth, Google Maps integration, and QR-based discovery
-- Tech: Flutter, Firebase, Maps API
+## Selected Projects
+
+- Online Munim — ERP & Billing for retail chains (Flutter, Firebase, SQL, Razorpay)
+- Banking App — Production mobile app for international banking partners (Payments, MFA, encrypted storage, HSM)
+- Jewellers App — E-commerce & billing with live pricing and EMI flows
+
+---
+
+## Why hire me (Recruiter TL;DR)
+
+- Proven experience delivering high-risk, high-compliance mobile products for banking and fintech
+- Security-first engineering: I design for threat resistance and auditability, not just feature parity
+- Product-minded: focus on user flows, conversion, and reliability under load
+- Fast onboarding: strong cross-functional communication with product, infra, and security teams
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vijaydobhal12&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=E4E4E7" height="190" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vijaydobhal12&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=E4E4E7" height="180" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaydobhal12&theme=tokyonight&hide_border=true&stroke=7C3AED&background=0D1117&ring=7C3AED&fire=F59E0B&currStreakLabel=7C3AED" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vijaydobhal12&show_icons=true&theme=tokyonight&hide_border=true&title_color=0B2B4F&icon_color=0B2B4F" height="170" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## Contact
 
-<p align="center">
-  <a href="mailto:vijaydobhal12@gmail.com">vijaydobhal12@gmail.com</a>
-</p>
+If you’re hiring for mobile security, payments, or fintech product roles — let’s talk.
 
-<p align="center">
-  <strong>Building mobile apps that are efficient, scalable, and user-friendly.</strong>
-</p>
+<p align="center"><a href="mailto:vijaydobhal12@gmail.com">vijaydobhal12@gmail.com</a></p>
+
+<p align="center"><strong>Open to remote and relocation opportunities — recruiter-friendly CV and interview prep available on request.</strong></p>
