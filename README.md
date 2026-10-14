@@ -10,21 +10,20 @@
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vijaysingdobhal&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&cache=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vijaydobhal12&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&cache=1" />
 </p>
-
 
 ---
 
 ## 🌟 About Me
 
-- 👀 Passionate about building **high-performance, scalable Android & iOS applications**  
-- 💻 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, Riverpod**  
-- 🤝 Open to freelance and full-time opportunities  
-- 💌 Email: **vijaydobhal12@gmail.com**  
-- 🔗 LinkedIn: [Connect Here](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)  
-- 🌐 Portfolio: [View Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)  
-- 📍 Location: **Pune, Maharashtra**  
+- 👀 Passionate about building high-performance, scalable Android & iOS applications.
+- 💻 Skilled in Flutter, Dart, Firebase, REST APIs, GetX, and Riverpod.
+- 🤝 Open to freelance and full-time opportunities.
+- 💌 Email: vijaydobhal12@gmail.com
+- 🔗 LinkedIn: [Connect Here](https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/)
+- 🌐 Portfolio: [View Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
+- 📍 Location: Pune, Maharashtra
 
 ---
 
@@ -33,7 +32,7 @@
   <a href="https://www.linkedin.com/in/vijaysing-dobhal-b7305b196/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/vijaysingdobhal">
+  <a href="https://github.com/vijaydobhal12">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com">
@@ -41,7 +40,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=vijaysingdobhal&style=flat-square&color=blue" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=vijaydobhal12&style=flat-square&color=blue" alt="Profile Views"/>
 
 ---
 
@@ -80,36 +79,34 @@
 ## 📁 Featured Projects
 
 #### 🔹 Online Munim – ERP App
-* Complete ERP billing solution with multi-branch support, inventory, and GST reports.  
-* **Tech:** Flutter, GetX, REST APIs, Firebase/SQL, Razorpay & Apple Pay  
-* **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 Website](YOUR_WEBSITE_LINK_HERE)
+* Complete ERP billing solution with multi-branch support, inventory, and GST reports.
+* **Tech:** Flutter, GetX, REST APIs, Firebase/SQL, Razorpay & Apple Pay
+* **Links:** [📱 GitHub](https://github.com/vijaydobhal12) | [🌐 Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
 
 #### 🔹 Jewellers App – E-Commerce & Billing
-* Product catalogue, gold/silver rates, EMI calculators, and multi-location stock management.  
-* **Tech:** Flutter, GetX, REST APIs, Razorpay & Apple Pay  
-* **Links:** [📱 Play Store](YOUR_PLAY_STORE_LINK_HERE) | [🌐 Website](YOUR_WEBSITE_LINK_HERE)
+* Product catalogue, gold/silver rates, EMI calculators, and multi-location stock management.
+* **Tech:** Flutter, GetX, REST APIs, Razorpay & Apple Pay
+* **Links:** [📱 GitHub](https://github.com/vijaydobhal12) | [🌐 Portfolio](https://vijayportfolio17.netlify.app/?utm_source=chatgpt.com)
 
 #### 🔹 Clone App (Flutter)
-* Photocopying service app with QR code shop mapping, Firebase Auth, and real-time uploads.  
-* **Tech:** Flutter, Firebase, Google Maps API  
+* Photocopying service app with QR code shop mapping, Firebase Auth, and real-time uploads.
+* **Tech:** Flutter, Firebase, Google Maps API
 
 ---
 
 ## 🔥 GitHub Stats (Dashboard View)
 
 <p align="center">
-  <!-- Personal Vercel Deployment (Best) -->
-  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api?username=vijaysingdobhal&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api?username=vijaydobhal12&show_icons=true&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api/top-langs/?username=vijaysingdobhal&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages"/>
+  <img src="https://github-readme-stats-blush-sigma-80.vercel.app/api/top-langs/?username=vijaydobhal12&layout=compact&theme=dark&hide_border=true&title_color=2e8b57&icon_color=2e8b57" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaysingdobhal&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=FF6F00" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vijaydobhal12&theme=dark&hide_border=true&stroke=0000&background=1c1c1c&ring=2e8b57&fire=FF6F00" height="170" alt="GitHub Streak" />
 </p>
-
 
 ---
 
