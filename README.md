@@ -85,12 +85,12 @@ Working on a banking application for international and regional financial instit
 
 ---
 
-## Why Recruiters Like This Profile
+## Recruiter-friendly Summary
 
-- Clear mobile product experience with fintech and banking use cases
-- Security-focused engineering mindset for sensitive applications
-- Strong understanding of both app development and secure system integration
-- Ability to work across product, backend, and security collaboration layers
+- 3+ years building production mobile apps for banking & fintech
+- Security-first: TLS/certificate pinning, reverse-proxy & HSM-aware patterns
+- End-to-end: mobile + secure backend integrations (OAuth2/OIDC, MFA)
+- Cross-functional: collaborate with product, backend, and security teams for audit-ready delivery
 
 ---
 
